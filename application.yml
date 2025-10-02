@@ -12,4 +12,6 @@ microservices:
         endpoints:
             fetchUserById:
                 uri: http://USERSERVICE/users/
-
+logging:
+    file:
+        name: "C:\Users\omkar\Downloads\app.logs"
