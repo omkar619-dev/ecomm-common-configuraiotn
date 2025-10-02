@@ -14,4 +14,4 @@ microservices:
                 uri: http://USERSERVICE/users/
 logging:
     file:
-        name: C:\Users\omkar\Downloads\app-logs
+        name: C:\Users\omkar\Downloads\app-logs\application.log
